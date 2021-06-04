@@ -34,15 +34,16 @@ any algorithm, hehe. THE TRUTH IS, I AM A BAD <b> JOKER </b> who is called <b>Za
 
   <h2>*</h2>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+    <h2><br/></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelzappy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelzappy)](https://github.com/anuraghazra/github-readme-stats)    <h2><br/></h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=noelzappy&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noelzappy&show_icons=true&count_private=true)      <h2><br/></h2>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=noelzappy)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=noelzappy)      <h2><br/></h2>
 
 ![GitHub metrics](https://metrics.lecoq.io/noelzappy)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=noelzappy)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=noelzappy)      <h2><br/></h2>
 
-![Profile views](https://gpvc.arturio.dev/noelzappy)  
+![Profile views](https://gpvc.arturio.dev/noelzappy)      <h2><br/></h2>
