@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Yeboah</h1>
 <h3 align="center">A passionate mobile and web developer from Ghana</h3>
 
-<p align="left" padding = 50px> <img src="https://komarev.com/ghpvc/?username=noelzappy&label=Profile%20views&color=0e75b6&style=flat" alt="noelzappy" /> </p>
+<p align="left" margin-right=50 > <img src="https://komarev.com/ghpvc/?username=noelzappy&label=Profile%20views&color=0e75b6&style=flat" alt="noelzappy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noelzappy" alt="noelzappy" /></a> </p>
 
@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/noelzappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="noelzappy" height="30" width="40" /></a>
-<a href="https://dev.to/noelzappy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noelzappy" height="30" width="40" /></a> <pre>  </pre>
+<a href="https://dev.to/noelzappy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noelzappy" height="30" width="40" /></a>
 <a href="https://twitter.com/noelzappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="noelzappy" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/noelzappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="noelzappy" height="30" width="40" /></a>
-<a href="https://codesandbox.com/noelzappy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="noelzappy" height="30" width="40" /></a> <pre>  </pre>
+<a href="https://codesandbox.com/noelzappy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="noelzappy" height="30" width="40" /></a> 
 <a href="https://fb.com/noelzappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="noelzappy" height="30" width="40" /></a> 
 <a href="https://instagram.com/noelzappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="noelzappy" height="30" width="40" /></a> 
 </p>
