@@ -3,10 +3,10 @@
 
 ![I love lofi music](https://i.ibb.co/r0qztsK/banner.png) <br/>
 <br/>
-I AM IN DARK ROOM WITH ONLY ONE LAMP ON, I AM STARING AT S A GREEN SCREEN COMPUTER.<br/>
+I AM IN A DARK ROOM WITH ONLY ONE LAMP ON, I AM STARING AT S A GREEN SCREEN COMPUTER.<br/>
 MAYBE I AM HACKING, OR MAYBE I AM A HACKER. That's what everyone thinks of you when you are a programmer. <br/>
 I love coding, I love the mental challenge associated with writing algorithms, even though I have never been able to write<br/>
-any algorithm, hehe. THE TRUTH IS, I AM BAD <b> JOKER </b> who is called <b>Zappy<b>
+any algorithm, hehe. THE TRUTH IS, I AM A BAD <b> JOKER </b> who is called <b>Zappy<b>
 
 
 
