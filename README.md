@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Yeboah</h1>
-<h3 align="center">A passionate developer from Ghana</h3>
+<h1 align="left">Hi 👋, I'm Emmanuel Yeboah</h1>
+<h3 align="left">A passionate developer from Ghana</h3>
 
 ![I love lofi music](https://i.ibb.co/r0qztsK/banner.png) <br/>
 I would always better be straight up than fake because that what i do.
