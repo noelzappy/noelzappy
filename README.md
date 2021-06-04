@@ -29,9 +29,6 @@ any algorithm, hehe. THE TRUTH IS, I AM A BAD <b> JOKER </b> who is called <b>Za
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-   <h2><br/></h2>
-
-![GitHub metrics](https://metrics.lecoq.io/noelzappy)  
 
 
 <h2><br/></h2>
