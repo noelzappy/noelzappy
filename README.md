@@ -34,8 +34,7 @@ any algorithm, hehe. THE TRUTH IS, I AM A BAD <b> JOKER </b> who is called <b>Za
 ![GitHub metrics](https://metrics.lecoq.io/noelzappy)  
 
 
-
-    <h2><br/></h2>
+<h2><br/></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelzappy)](https://github.com/anuraghazra/github-readme-stats)    <h2><br/></h2>
 
