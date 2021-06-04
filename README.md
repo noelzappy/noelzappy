@@ -2,7 +2,11 @@
 <h3 align="left">A passionate developer from Ghana</h3>
 
 ![I love lofi music](https://i.ibb.co/r0qztsK/banner.png) <br/>
-I would always better be straight up than fake because that what i do.
+<br/>
+I AM IN DARK ROOM WITH ONLY ONE LAMP ON, I AM STARING AT S A GREEN SCREEN COMPUTER.<br/>
+MAYBE I AM HACKING, OR MAYBE I AM A HACKER. That's what everyone thinks of you when you are a programmer. <br/>
+I love coding, I love the mental challenge associated with writing algorithms, even though I have never been able to write<br/>
+any algorithm, hehe. THE TRUTH IS, I AM BAD <b> JOKER </b> who is called <b>Zappy<b>
 
 
 
@@ -16,7 +20,7 @@ I would always better be straight up than fake because that what i do.
 
 - ⚡ Fun fact **A Joker who never jokes is the best Joker.**
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Precious Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
