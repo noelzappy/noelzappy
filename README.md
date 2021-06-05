@@ -49,7 +49,7 @@
 <a href="#">
 <img float="left" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@noelzappy&compact=True"/>
 </a>
-<img src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg" width=100px align="center" float="left"/>
+<img src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg" align="center" float="left"/>
  <h2><br/></h2>
 
 
