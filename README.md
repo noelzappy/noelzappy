@@ -48,7 +48,7 @@
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@noelzappy&compact=True"/>
 </a>
- <figure><embed src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg"></embed></figure>
+<img src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg" />
  
 <br>
 
