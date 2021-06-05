@@ -48,8 +48,9 @@
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="#">
 <img float="left" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@noelzappy&compact=True"/>
+ <img src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg" align="center" />
 </a>
-<img src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg" align="center" float="left"/>
+
  <h2><br/></h2>
 
 
