@@ -46,9 +46,9 @@
  
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@noelzappy&compact=True"/>
+<img float="left" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@noelzappy&compact=True"/>
 </a>
-<img src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg" />
+<img src="https://wakatime.com/share/@noelzappy/dc26c4d8-bb31-4ea5-9357-ff3f7728a09c.svg" width=100px align="left" float="left"/>
  
 <br>
 
