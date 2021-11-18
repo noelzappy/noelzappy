@@ -1,10 +1,5 @@
 <h1 align="left">👋 I'm Emmanuel Yeboah</h1>
 <h3 align="left">A passionate developer from Ghana</h3>
-
-<p align='center'>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=noelzappy.noelzappy)
-</p>
-
 <h2> About Me</h2>
 - 🔭 My Website [yeboahnoel.me](https://yeboahnoel.me/)
 
