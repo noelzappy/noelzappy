@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://noelzappy.github.io](https://noelzappy.github.io)
 
-- 💬 Ask me about **react, react native, nodejs,**
+- 💬 Ask me about **Java, JavaScript, Python & C#**
 
 - 📫 How to reach me **noelzappy@gmail.com**
+
+- 📫 I work on... **Mobile Apps (Native Android, React Native), Web (React.Js), Backend (Node.Js, Python)**
