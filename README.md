@@ -5,6 +5,6 @@
 
 - 💬 Ask me about **Java, JavaScript, Python & C#**
 
-- 📫 How to reach me **noelzappy@gmail.com**
+- 📫 You can react me here **noelzappy@gmail.com**
 
-- 📫 I work on... **Mobile Apps (Native Android, React Native), Web (React.Js), Backend (Node.Js, Python)**
+- 📫 I work on... **Mobile Apps (Native Android, React Native), Web (React.Js), Backend (Node.Js, Python), Desktop Apps (Java, C#, JavaScript/Electron)**
