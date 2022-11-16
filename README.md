@@ -8,3 +8,6 @@
 - 📫 You can react me here **noelzappy@gmail.com**
 
 - 📫 I work on... **Mobile Apps, Web Apps, Backend APIs, and Desktop Apps**
+
+
+![](https://komarev.com/ghpvc/?username=noelzappy)
