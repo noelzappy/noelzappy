@@ -10,4 +10,4 @@
 - 📫 I work on... **Mobile Apps, Web Apps, Backend APIs, and Desktop Apps**
 
 
-![](https://komarev.com/ghpvc/?username=noelzappy)  ![Coded for](https://wakatime.com/@2ea7f4b7-2f3a-477d-8f61-a0ecd3770f08)
+![](https://komarev.com/ghpvc/?username=noelzappy)  [![coding](https://wakatime.com/badge/user/2ea7f4b7-2f3a-477d-8f61-a0ecd3770f08.svg)](https://wakatime.com/@2ea7f4b7-2f3a-477d-8f61-a0ecd3770f08)
