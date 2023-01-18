@@ -11,3 +11,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=noelzappy)
+
+[![wakatime](https://wakatime.com/badge/user/2ea7f4b7-2f3a-477d-8f61-a0ecd3770f08.svg)](https://wakatime.com/@2ea7f4b7-2f3a-477d-8f61-a0ecd3770f08)
