@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Yeboah</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://noelzappy.github.io](https://noelzappy.vercel.app)
+- 👨‍💻 All of my projects are available at [https://noelzappy.dev](https://noelzappy.dev)
 
-- 💬 Ask me about **Java, JavaScript, Dart/Flutter, Python & C#**
+- 💬 Ask me about **Java, JavaScript, Go, Python & TypeScript
 
 - 📫 You can reach me here **noelzappy@gmail.com**
 
