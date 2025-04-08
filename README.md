@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Yeboah</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Noel Zappy Yeboah</h1>
 <h3 align="center">A full stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://noelzappy.dev](https://noelzappy.dev)
