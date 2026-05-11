@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Noel Zappy Yeboah</h1>
+### Backend engineer · African fintech infrastructure
 
-Backend engineer building fintech infrastructure for African markets. Co-founder @Susupaa ($80k+ MRR). Go · TypeScript · NestJS · PostgreSQL.
+I build the systems African fintech runs on.
 
-![coding](https://wakatime.com/badge/user/2ea7f4b7-2f3a-477d-8f61-a0ecd3770f08.svg)     ![](https://komarev.com/ghpvc/?username=noelzappy&label=Profile%20Views&color=0e75b6&style=flat)
+- 🏗 Co-founder & Lead Backend Engineer at [SusuPaa](https://susupaa.com) — processing $80k+ monthly across Ghana's susu savings ecosystem
+- 🔧 Creator of [Voltax](https://github.com/noelzappy/voltax) — open-source SDK unifying African payment gateways
+- ✍️ I write at [noelzappy.dev/notes](https://noelzappy.dev/notes) about payments, distributed systems, and shipping software that holds up
+- 🛠 Stack: Go · TypeScript · NestJS · PostgreSQL · React Native · Node.js
+- 📫 emmanuel@noelzappy.dev · [LinkedIn](https://linkedin.com/in/noelzappy) · [X](https://x.com/noelzappy)
+
+**Currently open to senior backend and fintech engineering roles. Remote-first.**
