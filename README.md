@@ -4,7 +4,7 @@ Software engineer and founder. I build backend and payment infrastructure for Af
 
 ## What I'm doing now
 
-- **CTO, [Pavex Technologies](https://pavexinc.com)** — fintech company I co-founded. Products: **[SusuPaa](https://susupaa.com)** (digitised susu savings and lending for collectors, cooperatives and microfinance institutions — 10M+ GHS processed, custom double-entry ledger, non-custodial by design), **Tripli** (goal-based travel savings, launching late 2026), and **54node** (one API for every payment rail in Africa).
+- **CTO, [Pavex Inc.](https://pavexinc.com)** — fintech company I co-founded. Products: **[SusuPaa](https://susupaa.com)** (digitised susu savings and lending for collectors, cooperatives and microfinance institutions — 10M+ GHS processed, custom double-entry ledger, non-custodial by design), **Tripli** (goal-based travel savings, launching late 2026), and **54node** (one API for every payment rail in Africa).
 
 ## Open source
 
