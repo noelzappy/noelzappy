@@ -21,7 +21,7 @@ Software engineer and founder. I build backend and payment infrastructure for Af
 
 ## Stack
 
-`Go` `TypeScript` `Node.js` `React` `React Native / Expo` `PostgreSQL` `Redis` `Docker Swarm` `Cloudflare` `Hetzner`
+`Go` `TypeScript` `Python` `Java` `Node.js` `React` `React Native / Expo` `PostgreSQL` `Redis`
 
 ## Contact
 
