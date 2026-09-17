@@ -6,6 +6,6 @@ I build the systems African fintech runs on.
 - 🔧 Creator of [Voltax](https://github.com/noelzappy/voltax) — open-source SDK unifying African payment gateways
 - ✍️ I write at [noelzappy.dev/notes](https://noelzappy.dev/notes) about payments, distributed systems, and shipping software that holds up
 - 🛠 Stack: Go · Python · TypeScript · NestJS · PostgreSQL · React Native · Node.js
-- 📫 emmanuel@noelzappy.dev · [LinkedIn](https://linkedin.com/in/noelzappy) · [X](https://x.com/noelzappy)
+- 📫 me@noelzappy.dev · [LinkedIn](https://linkedin.com/in/noelzappy) · [X](https://x.com/noelzappy)
 
 **Currently open to senior backend and fintech engineering roles. Remote-first.**
